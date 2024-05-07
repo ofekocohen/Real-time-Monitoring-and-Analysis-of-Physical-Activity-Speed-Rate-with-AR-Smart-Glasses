@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ARWorkout</string>
+    <string name="workouts">Workouts</string>
+    <string name="workout_summary">Workout Summary</string>
+    <string name="history">History</string>
+    <string name="discard_workout">Discard Workout?</string>
+    <string name="end_workout">End Workout?</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="not_active">Not Active</string>
+    <string name="active">Active</string>
+    <string name="edit">Edit</string>
+    <string name="clear">Clear</string>
+    <string name="done">Done</string>
+    <string name="now_you_can_preview_glasses">Now you can preview glasses</string>
+    <string name="you_must_allow_permission_for_glasses_preview">You must allow permission for glasses preview</string>
+    <string name="no_exercises">No Exercises</string>
+    <string name="cannot_load_this_workout">Cannot load this workout</string>
+    <string name="score">Score</string>
+    <string name="reps">Reps</string>
+    <string name="workout_is_currently_active">Workout is currently active</string>
+    <string name="confirm">Confirm</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="delete_workout">Delete Workout?</string>
+    <string name="clear_all_history">Clear all history?</string>
+    <string name="remove">Remove</string>
+    <string name="end_workout_capital">END WORKOUT</string>
+    <string name="no_workouts">No Workouts</string>
+</resources>
